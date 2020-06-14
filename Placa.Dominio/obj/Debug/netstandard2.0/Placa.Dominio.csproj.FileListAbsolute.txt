@@ -1,0 +1,8 @@
+/home/doria/Documentos/Placa.API/Placa.Dominio/bin/Debug/netstandard2.0/Placa.Dominio.deps.json
+/home/doria/Documentos/Placa.API/Placa.Dominio/bin/Debug/netstandard2.0/Placa.Dominio.dll
+/home/doria/Documentos/Placa.API/Placa.Dominio/bin/Debug/netstandard2.0/Placa.Dominio.pdb
+/home/doria/Documentos/Placa.API/Placa.Dominio/obj/Debug/netstandard2.0/Placa.Dominio.csprojAssemblyReference.cache
+/home/doria/Documentos/Placa.API/Placa.Dominio/obj/Debug/netstandard2.0/Placa.Dominio.AssemblyInfoInputs.cache
+/home/doria/Documentos/Placa.API/Placa.Dominio/obj/Debug/netstandard2.0/Placa.Dominio.AssemblyInfo.cs
+/home/doria/Documentos/Placa.API/Placa.Dominio/obj/Debug/netstandard2.0/Placa.Dominio.dll
+/home/doria/Documentos/Placa.API/Placa.Dominio/obj/Debug/netstandard2.0/Placa.Dominio.pdb
