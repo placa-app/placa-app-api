@@ -16,7 +16,7 @@ namespace Placa.Dominio
         public DateTime data_criacao { get; set; }
         public DateTime? data_atualizacao { get; set; }
         public List<Viagem> viagens { get; set; }
-        public List<ProblemaSaudeMotorista> problemas { get; set; }
+        public List<ProblemaSaudeMotorista> ProblemasSaudeMotorista { get; set; }
 
     }
 }
