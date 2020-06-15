@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/doria/Documentos/Placa.API/Placa-Api/Placa.API.csproj": {}
+    "/home/doria/Documentos/Placa.API2/Placa-Api/Placa.API.csproj": {}
   },
   "projects": {
-    "/home/doria/Documentos/Placa.API/Placa-Api/Placa.API.csproj": {
+    "/home/doria/Documentos/Placa.API2/Placa-Api/Placa.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/doria/Documentos/Placa.API/Placa-Api/Placa.API.csproj",
+        "projectUniqueName": "/home/doria/Documentos/Placa.API2/Placa-Api/Placa.API.csproj",
         "projectName": "Placa.API",
-        "projectPath": "/home/doria/Documentos/Placa.API/Placa-Api/Placa.API.csproj",
+        "projectPath": "/home/doria/Documentos/Placa.API2/Placa-Api/Placa.API.csproj",
         "packagesPath": "/home/doria/.nuget/packages/",
-        "outputPath": "/home/doria/Documentos/Placa.API/Placa-Api/obj/",
+        "outputPath": "/home/doria/Documentos/Placa.API2/Placa-Api/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"
@@ -28,11 +28,11 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "/home/doria/Documentos/Placa.API/Placa.Dominio/Placa.Dominio.csproj": {
-                "projectPath": "/home/doria/Documentos/Placa.API/Placa.Dominio/Placa.Dominio.csproj"
+              "/home/doria/Documentos/Placa.API2/Placa.Dominio/Placa.Dominio.csproj": {
+                "projectPath": "/home/doria/Documentos/Placa.API2/Placa.Dominio/Placa.Dominio.csproj"
               },
-              "/home/doria/Documentos/Placa.API/Placa.Repositorio/Placa.Repositorio.csproj": {
-                "projectPath": "/home/doria/Documentos/Placa.API/Placa.Repositorio/Placa.Repositorio.csproj"
+              "/home/doria/Documentos/Placa.API2/Placa.Repositorio/Placa.Repositorio.csproj": {
+                "projectPath": "/home/doria/Documentos/Placa.API2/Placa.Repositorio/Placa.Repositorio.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "/home/doria/Documentos/Placa.API/Placa.Dominio/Placa.Dominio.csproj": {
+    "/home/doria/Documentos/Placa.API2/Placa.Dominio/Placa.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/doria/Documentos/Placa.API/Placa.Dominio/Placa.Dominio.csproj",
+        "projectUniqueName": "/home/doria/Documentos/Placa.API2/Placa.Dominio/Placa.Dominio.csproj",
         "projectName": "Placa.Dominio",
-        "projectPath": "/home/doria/Documentos/Placa.API/Placa.Dominio/Placa.Dominio.csproj",
+        "projectPath": "/home/doria/Documentos/Placa.API2/Placa.Dominio/Placa.Dominio.csproj",
         "packagesPath": "/home/doria/.nuget/packages/",
-        "outputPath": "/home/doria/Documentos/Placa.API/Placa.Dominio/obj/",
+        "outputPath": "/home/doria/Documentos/Placa.API2/Placa.Dominio/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"
@@ -138,14 +138,14 @@
         }
       }
     },
-    "/home/doria/Documentos/Placa.API/Placa.Repositorio/Placa.Repositorio.csproj": {
+    "/home/doria/Documentos/Placa.API2/Placa.Repositorio/Placa.Repositorio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/doria/Documentos/Placa.API/Placa.Repositorio/Placa.Repositorio.csproj",
+        "projectUniqueName": "/home/doria/Documentos/Placa.API2/Placa.Repositorio/Placa.Repositorio.csproj",
         "projectName": "Placa.Repositorio",
-        "projectPath": "/home/doria/Documentos/Placa.API/Placa.Repositorio/Placa.Repositorio.csproj",
+        "projectPath": "/home/doria/Documentos/Placa.API2/Placa.Repositorio/Placa.Repositorio.csproj",
         "packagesPath": "/home/doria/.nuget/packages/",
-        "outputPath": "/home/doria/Documentos/Placa.API/Placa.Repositorio/obj/",
+        "outputPath": "/home/doria/Documentos/Placa.API2/Placa.Repositorio/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"
@@ -162,8 +162,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "/home/doria/Documentos/Placa.API/Placa.Dominio/Placa.Dominio.csproj": {
-                "projectPath": "/home/doria/Documentos/Placa.API/Placa.Dominio/Placa.Dominio.csproj"
+              "/home/doria/Documentos/Placa.API2/Placa.Dominio/Placa.Dominio.csproj": {
+                "projectPath": "/home/doria/Documentos/Placa.API2/Placa.Dominio/Placa.Dominio.csproj"
               }
             }
           }

@@ -17,9 +17,12 @@ namespace Placa.Repositorio
 
         //VIAGEM
         Task<Viagem> GetViagemAsyncById(int ViagemId);
+        Task<Viagem[]> GetViagemAsyncByMotorista(int MotoristaId);
 
         //PROBLEMA SAUDE
         Task<ProblemaSaude[]> GetAllProblemasAsync();
+        Task<ProblemaSaude[]> GetAllProblemasAsyncByMotorista(int MotoristaId);
+        Task<ProblemaSaudeMotorista> GetProblemaSaudeMotoristaAsyncByMotorista(int MotoristaId, int ProblemaSaudeId);
 
     }
 }

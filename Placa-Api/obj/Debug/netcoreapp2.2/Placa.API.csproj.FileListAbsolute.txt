@@ -19,3 +19,10 @@
 /home/doria/Documentos/Placa.API/Placa-Api/obj/Debug/netcoreapp2.2/Placa.API.csproj.CopyComplete
 /home/doria/Documentos/Placa.API/Placa-Api/obj/Debug/netcoreapp2.2/Placa.API.dll
 /home/doria/Documentos/Placa.API/Placa-Api/obj/Debug/netcoreapp2.2/Placa.API.pdb
+/home/doria/Documentos/Placa.API2/Placa-Api/obj/Debug/netcoreapp2.2/Placa.API.csprojAssemblyReference.cache
+/home/doria/Documentos/Placa.API2/Placa-Api/obj/Debug/netcoreapp2.2/Placa.API.RazorAssemblyInfo.cache
+/home/doria/Documentos/Placa.API2/Placa-Api/obj/Debug/netcoreapp2.2/Placa.API.RazorAssemblyInfo.cs
+/home/doria/Documentos/Placa.API2/Placa-Api/obj/Debug/netcoreapp2.2/Placa.API.AssemblyInfoInputs.cache
+/home/doria/Documentos/Placa.API2/Placa-Api/obj/Debug/netcoreapp2.2/Placa.API.AssemblyInfo.cs
+/home/doria/Documentos/Placa.API2/Placa-Api/obj/Debug/netcoreapp2.2/Placa.API.dll
+/home/doria/Documentos/Placa.API2/Placa-Api/obj/Debug/netcoreapp2.2/Placa.API.pdb

@@ -4,8 +4,8 @@
     "windowsAuthentication": false, 
     "anonymousAuthentication": true, 
     "iisExpress": {
-      "applicationUrl": "http://localhost:22643",
-      "sslPort": 44382
+      "applicationUrl": "http://localhost:4063",
+      "sslPort": 44387
     }
   },
   "profiles": {
@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    ".API": {
+    "Placa_Api": {
       "commandName": "Project",
       "launchBrowser": false,
       "launchUrl": "api/values",

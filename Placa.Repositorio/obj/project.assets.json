@@ -4075,11 +4075,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/doria/Documentos/Placa.API/Placa.Repositorio/Placa.Repositorio.csproj",
+      "projectUniqueName": "/home/doria/Documentos/Placa-API/Placa.Repositorio/Placa.Repositorio.csproj",
       "projectName": "Placa.Repositorio",
-      "projectPath": "/home/doria/Documentos/Placa.API/Placa.Repositorio/Placa.Repositorio.csproj",
+      "projectPath": "/home/doria/Documentos/Placa-API/Placa.Repositorio/Placa.Repositorio.csproj",
       "packagesPath": "/home/doria/.nuget/packages/",
-      "outputPath": "/home/doria/Documentos/Placa.API/Placa.Repositorio/obj/",
+      "outputPath": "/home/doria/Documentos/Placa-API/Placa.Repositorio/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
@@ -4096,8 +4096,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "/home/doria/Documentos/Placa.API/Placa.Dominio/Placa.Dominio.csproj": {
-              "projectPath": "/home/doria/Documentos/Placa.API/Placa.Dominio/Placa.Dominio.csproj"
+            "/home/doria/Documentos/Placa-API/Placa.Dominio/Placa.Dominio.csproj": {
+              "projectPath": "/home/doria/Documentos/Placa-API/Placa.Dominio/Placa.Dominio.csproj"
             }
           }
         }
@@ -4127,16 +4127,10 @@
           }
         },
         "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48"
+          "net461"
         ],
         "assetTargetFallback": true,
-        "warn": true,
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        "warn": true
       }
     }
   }

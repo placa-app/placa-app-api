@@ -13,7 +13,7 @@ using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using Placa.Repositorio;
 
-namespace Placa.API
+namespace Placa_Api
 {
     public class Startup
     {
@@ -27,7 +27,7 @@ namespace Placa.API
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<PlacaContexto>(x =>
+           services.AddDbContext<PlacaContexto>(x =>
             {
                 x.UseSqlite(Configuration.GetConnectionString("DefaultConnection"));
             });

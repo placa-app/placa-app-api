@@ -64,8 +64,6 @@ namespace Placa.Repositorio.Migrations
 
                     b.HasKey("ProblemaSaudeId", "MotoristaId");
 
-                    b.HasIndex("MotoristaId");
-
                     b.ToTable("ProblemasMotoristas");
                 });
 
@@ -96,30 +94,7 @@ namespace Placa.Repositorio.Migrations
 
                     b.HasKey("id");
 
-                    b.HasIndex("MotoristaId");
-
                     b.ToTable("Viagens");
-                });
-
-            modelBuilder.Entity("Placa.Dominio.ProblemaSaudeMotorista", b =>
-                {
-                    b.HasOne("Placa.Dominio.Motorista", "Motorista")
-                        .WithMany("problemas")
-                        .HasForeignKey("MotoristaId")
-                        .OnDelete(DeleteBehavior.Cascade);
-
-                    b.HasOne("Placa.Dominio.ProblemaSaude", "ProblemaSaude")
-                        .WithMany()
-                        .HasForeignKey("ProblemaSaudeId")
-                        .OnDelete(DeleteBehavior.Cascade);
-                });
-
-            modelBuilder.Entity("Placa.Dominio.Viagem", b =>
-                {
-                    b.HasOne("Placa.Dominio.Motorista", "motorista")
-                        .WithMany("viagens")
-                        .HasForeignKey("MotoristaId")
-                        .OnDelete(DeleteBehavior.Cascade);
                 });
 #pragma warning restore 612, 618
         }
