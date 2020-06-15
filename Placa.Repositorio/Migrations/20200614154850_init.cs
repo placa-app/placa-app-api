@@ -47,7 +47,7 @@ namespace Placa.Repositorio.Migrations
                 {
                     id = table.Column<int>(nullable: false)
                         .Annotation("Sqlite:Autoincrement", true),
-                    origim = table.Column<string>(nullable: true),
+                    origem = table.Column<string>(nullable: true),
                     destino = table.Column<string>(nullable: true),
                     distancia = table.Column<string>(nullable: true),
                     horario_partida = table.Column<DateTime>(nullable: false),
